@@ -1,0 +1,3 @@
+After the first two users have joined the third user is inserted twice and then multiplied by two [DONE]
+
+Problem with showing all the users in the room when someone new joins it rather then only showing the new user who joins it still remains an issue [DONE]
